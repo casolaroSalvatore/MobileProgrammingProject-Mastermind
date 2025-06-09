@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Mastermind</string>
+
+    <!-- Menu -->
+    <string name="menu_new_game">Nuova partita</string>
+    <string name="menu_resume">Riprendi partita</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_history">Storico</string>
+
+    <!-- Game -->
+    <string name="remaining_compatible">Codici compatibili rimanenti: %1$d</string>
+    <string name="submit_random_guess">Invia tentativo casuale</string>
+    <string name="save_game">Salva partita</string>
+    <string name="back">Indietro</string>
+    <string name="attempts_left">Tentativi rimasti</string>
+    <string name="submit_guess">Invia</string>
+    <string name="win_title">Hai vinto!</string>
+    <string name="win_message">Complimenti, hai indovinato il codice.</string>
+    <string name="lose_title">Peccato!</string>
+    <string name="lose_message">Tentativi esauriti. La sequenza corretta era:</string>
+    <string name="back_to_menu">Menu principale</string>
+
+    <!-- Settings -->
+    <string name="colors_number">Numero di colori</string>
+    <string name="code_length">Lunghezza codice</string>
+    <string name="allow_duplicates">Permetti duplicati</string>
+    <string name="save">Salva</string>
+
+    <!-- Resume / History -->
+    <string name="no_saved_game">Nessuna partita salvata</string>
+    <string name="continue_game">Continua</string>
+    <string name="found_saved_game">È stata trovata una partita salvata.</string>
+
+    <string name="loading">Caricamento…</string>
+    <string name="title_game">Gioca</string>
+    <string name="title_resume">Riprendi</string>
+    <string name="title_history">Storico</string>
+    <string name="title_settings">Impostazioni</string>
+    <string name="pref_colors">Numero colori</string>
+    <string name="pref_code_length">Lunghezza codice</string>
+    <string name="pref_duplicates">Permetti duplicati</string>
+
+    <string name="dialog_title_setup">Nuova partita</string>
+    <string name="start">Avvia</string><string name="cancel">Annulla</string>
+    <string name="label_colors">Colori disponibili: %1$d</string>
+    <string name="label_length">Lunghezza codice: %1$d</string>
+    <string name="label_attempts">Tentativi massimi: %1$d</string>
+    <string name="label_duplicates">Consenti duplicati</string>
+    <string name="section_audio">Audio</string>
+    <string name="music_volume">Volume musica: %1$d%%</string>
+    <string name="sfx_volume">Volume effetti: %1$d%%</string>
+
+    <string name="history_detail_title">Partita #%1$d</string>
+
+    <string name="dialog_resume_title">Riprendere la partita salvata?</string>
+    <string name="dialog_resume_message">
+        È stata trovata una partita salvata con %1$d tentativi del %2$s. Cosa vuoi fare?
+    </string>
+    <string name="dialog_resume_resume">Riprendi</string>
+    <string name="dialog_resume_new">Nuova partita</string>
+
+    <!-- Dialog uscita -->
+    <string name="dialog_exit_title">Abbandonare la partita?</string>
+    <string name="dialog_exit_message">
+        Vuoi salvare i progressi prima di uscire?
+    </string>
+    <string name="dialog_exit_save_exit">Salva ed esci</string>
+    <string name="dialog_exit_exit">Esci senza salvare</string>
+
+    <string name="btn_submit">Invia</string>
+    <string name="btn_clear">Cancella</string>
+
+    <string name="label_secret_code">Codice segreto</string>
+
+</resources>

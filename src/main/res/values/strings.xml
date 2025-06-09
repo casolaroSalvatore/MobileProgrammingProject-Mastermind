@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Mastermind</string>
+
+    <!-- Menu -->
+    <string name="menu_new_game">New Game</string>
+    <string name="menu_resume">Resume Game</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_history">History</string>
+
+    <!-- Game -->
+    <string name="remaining_compatible">Compatible codes remaining: %1$d</string>
+    <string name="submit_random_guess">Submit random guess</string>
+    <string name="back">Back</string>
+    <string name="attempts_left">Left Attemps</string>
+    <string name="submit_guess">Submit</string>
+    <string name="win_title">You won!</string>
+    <string name="win_message">Congratulations, you cracked the code.</string>
+    <string name="lose_title">Too bad!</string>
+    <string name="lose_message">Attempts exhausted. The correct sequence was:</string>
+    <string name="back_to_menu">Main menu</string>
+
+    <!-- Settings -->
+    <string name="colors_number">Number of colors</string>
+    <string name="code_length">Code length</string>
+    <string name="allow_duplicates">Allow duplicates</string>
+    <string name="save">Save</string>
+
+    <!-- Resume / History -->
+    <string name="no_saved_game">No saved game found</string>
+    <string name="save_game">Save</string>
+    <string name="continue_game">Continue</string>
+    <string name="found_saved_game">A saved game was found.</string>
+
+    <string name="loading">Loading…</string>
+    <string name="title_game">Play</string>
+    <string name="title_resume">Resume</string>
+    <string name="title_history">History</string>
+    <string name="title_settings">Settings</string>
+    <string name="pref_colors">Number of colors</string>
+    <string name="pref_code_length">Code length</string>
+    <string name="pref_duplicates">Allow duplicates</string>
+
+    <string name="dialog_title_setup">New Game</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="label_colors">Available colors: %1$d</string>
+    <string name="label_length">Code length: %1$d</string>
+    <string name="label_attempts">Maximum attempts: %1$d</string>
+    <string name="label_duplicates">Allow duplicates</string>
+
+    <string name="section_audio">Audio</string>
+    <string name="music_volume">Music volume: %1$d%%</string>
+    <string name="sfx_volume">Sound effects volume: %1$d%%</string>
+
+    <string name="history_detail_title">Game #%1$d</string>
+
+    <!-- Resume dialog -->
+    <string name="dialog_resume_title">Resume saved game?</string>
+    <string name="dialog_resume_message">
+        Found a saved game with %1$d moves dated %2$s. What do you want to do?
+    </string>
+    <string name="dialog_resume_resume">Resume</string>
+    <string name="dialog_resume_new">New game</string>
+
+    <!-- Exit dialog -->
+    <string name="dialog_exit_title">Leave the game?</string>
+    <string name="dialog_exit_message">
+        Do you want to save your progress before leaving?
+    </string>
+    <string name="dialog_exit_save_exit">Save and exit</string>
+    <string name="dialog_exit_exit">Exit without saving</string>
+
+    <string name="btn_submit">Submit</string>
+    <string name="btn_clear">Clear</string>
+
+    <string name="label_secret_code">Secret code</string>
+
+</resources>
